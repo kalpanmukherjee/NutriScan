@@ -1,6 +1,6 @@
-# hgflutter_app
+# NutriScan
 
-A new Flutter application.
+This is a WIP.
 
 ## Getting Started
 
